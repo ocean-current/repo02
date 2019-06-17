@@ -7,5 +7,6 @@ public class test {
     }
     public void test(){
         System.out.println("添加");
+        System.out.println("nihao");
     }
 }
