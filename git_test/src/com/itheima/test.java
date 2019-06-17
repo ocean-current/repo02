@@ -5,4 +5,7 @@ public class test {
 
         System.out.println("你好世界");
     }
+    public void test(){
+        System.out.println("添加");
+    }
 }
